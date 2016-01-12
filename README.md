@@ -43,10 +43,14 @@ The task is to create a similar page of HTML/CSS and Javascript which either rec
 
 Must Haves:
 
-●	Total Count of Devices and Channels at the  top
+●	Total Count of Devices and Channels at the top
+
 ●	A Legend describing the data  shown
+
 ●	Graphical representation of Devices and Channels in relation to the parent   title.
+
 ●	The ability to filter results based on a Title (in  Red).
+
  
 
 Considerations:
